@@ -16,7 +16,7 @@ function App() {
   return(
     <div className="app" data-theme={theme}>
       <div className="login">
-        <h1>Login</h1>d
+        <h1>Login</h1>
         <div className='container'>
           <div className='top'>
             <i class='fab fa-google'></i>
