@@ -1,6 +1,5 @@
 import React from 'react';
 import useLocalStorage from 'use-local-storage';
-
 import './index.css';
 
 
@@ -38,7 +37,7 @@ function App() {
             <button>Log In</button>
           </form>
           <div className='bottom'>
-            <p>Forget your password ?</p>
+            <p>Forgot your password ?</p>
             <a href='/'>Reset password</a>
           </div>
           <p className='create'>Create Account</p>
